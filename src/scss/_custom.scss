@@ -1,0 +1,23 @@
+// Here you can add other styles
+@media (min-width: 768px) {
+  .table-nowrap {
+    white-space: nowrap;
+  }
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.absolute-center {
+  position: absolute;
+  margin: auto;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.button-action {
+  padding: 0.25rem 1.5rem;
+}
